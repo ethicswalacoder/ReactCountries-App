@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCountries-App/static/css/main.7712e1a6.css",
+    "main.js": "/ReactCountries-App/static/js/main.1e1be5cf.js",
+    "static/js/787.862c3719.chunk.js": "/ReactCountries-App/static/js/787.862c3719.chunk.js",
+    "index.html": "/ReactCountries-App/index.html",
+    "main.7712e1a6.css.map": "/ReactCountries-App/static/css/main.7712e1a6.css.map",
+    "main.1e1be5cf.js.map": "/ReactCountries-App/static/js/main.1e1be5cf.js.map",
+    "787.862c3719.chunk.js.map": "/ReactCountries-App/static/js/787.862c3719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7712e1a6.css",
+    "static/js/main.1e1be5cf.js"
+  ]
+}
